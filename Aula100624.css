@@ -1,3 +1,5 @@
-<style>
+header {
+  background: rgb(156,164,241);
+  background: linear-gradient(180deg, rgba(156,164,241,1) 0%, rgba(156,164,241,1) 48%, rgba(134,191,203,1) 100%);
 
-</style>
+}
