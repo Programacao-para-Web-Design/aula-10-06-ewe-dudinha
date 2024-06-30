@@ -1,5 +1,46 @@
-header {
-  background: rgb(156,164,241);
-  background: linear-gradient(180deg, rgba(156,164,241,1) 0%, rgba(156,164,241,1) 48%, rgba(134,191,203,1) 100%);
+header{
+      background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+      background: -moz-linear-gradient(left, #505569, #031c7a);
+      filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+		}
 
-}
+#Programacao{
+
+			background-color: #ffc2ea;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+			
+		}
+
+		#Desenvolvimento{
+
+			background-color: yellow;  
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+		}
+
+		#Analise{
+			
+			background-color: red;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+		}
