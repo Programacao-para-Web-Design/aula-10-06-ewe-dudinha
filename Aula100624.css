@@ -5,7 +5,6 @@
 		}
 
 		.materia{
-
 			font-size: 16px;
 			text-align: center;
 			font-weight: bold;
@@ -27,6 +26,10 @@
 			align-items: center;
 			text-align: center;
 			pading: 2px;
+		}
+
+		body{
+			background-color: #83c5be;
 		}
 
 		#Programacao{
