@@ -1,15 +1,3 @@
-		.nome{
-			font-weight: bold;
-			font-size: 20px;
-			text-align: center; 
-		}
-
-		.materia{
-			font-size: 16px;
-			text-align: center;
-			font-weight: bold;
-		}
-
 		header{
       			background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
       			background: -moz-linear-gradient(left, #505569, #031c7a);
@@ -31,6 +19,13 @@
 		body{
 			background-color: #83c5be;
 		}
+
+		.materia{
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+		}
+
 
 		#Programacao{
 			background-color: #a2d2ff;
@@ -60,6 +55,12 @@
 			pading: 2px;
 			margin: 0 auto;
 			max-width: 95%;
+		}
+
+		.nome{
+			font-weight: bold;
+			font-size: 20px;
+			text-align: center; 
 		}
 
 		footer{
