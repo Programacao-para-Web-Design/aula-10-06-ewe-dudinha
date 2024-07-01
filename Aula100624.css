@@ -16,6 +16,10 @@
 			pading: 2px;
 		}
 
+		center{ 
+			justify-content: center; 
+		}
+
 		body{
 			background-color: #83c5be;
 		}
