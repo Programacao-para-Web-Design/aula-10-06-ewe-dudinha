@@ -9,12 +9,12 @@
 		}
 
 		main{
-			max-width: 100%;
 			justify-content: center;
 			align-items: center;
 			text-align: center;
 			pading: 20%;
-			margin: 10%;
+			max-width: 500px;
+			margin: auto;
 		}
 
 		body{
