@@ -14,7 +14,10 @@
 			align-items: center;
 			text-align: center;
 			pading: 2px;
-			position: center;
+		}
+
+		.center{
+			text-align: center;
 		}
 
 		body{
