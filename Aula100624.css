@@ -9,11 +9,12 @@
 		}
 
 		main{
-			max-width: 75%;
+			max-width: 100%;
 			justify-content: center;
 			align-items: center;
 			text-align: center;
 			pading: 2px;
+			margin: 10%;
 		}
 
 		body{
