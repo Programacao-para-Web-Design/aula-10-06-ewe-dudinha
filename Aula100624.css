@@ -1,0 +1,78 @@
+		header{
+      			background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+      			background: -moz-linear-gradient(left, #505569, #031c7a);
+     			filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+		}
+
+		main{
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 20%;
+			max-width: 500px;
+			margin: auto;
+		}
+
+		body{
+			background-color: #83c5be;
+		}
+
+		.materia{
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+		}
+
+
+		#Programacao{
+			background-color: #FFB6C1;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+		}
+
+		#Analise{
+			background-color: #cdb4db;  
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+		}
+
+		#Games{
+			background-color: #ffafcc;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+		}
+
+		.nome{
+			font-weight: bold;
+			font-size: 20px;
+			text-align: center; 
+		}
+
+		footer{
+			background-color: #fcf6bd;
+			width: 100%;
+        		color: black;
+			font-size: 20px;
+			text-align: center;
+			position: absolut;
+			font-size: 16px;
+			font-weight: bold;
+		}
+
+			
